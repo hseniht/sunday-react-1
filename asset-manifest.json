@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunday-react-1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sunday-react-1/static/js/main.a32ae249.chunk.js",
+    "main.js.map": "/sunday-react-1/static/js/main.a32ae249.chunk.js.map",
+    "runtime-main.js": "/sunday-react-1/static/js/runtime-main.0df18dee.js",
+    "runtime-main.js.map": "/sunday-react-1/static/js/runtime-main.0df18dee.js.map",
+    "static/js/2.b838b1d5.chunk.js": "/sunday-react-1/static/js/2.b838b1d5.chunk.js",
+    "static/js/2.b838b1d5.chunk.js.map": "/sunday-react-1/static/js/2.b838b1d5.chunk.js.map",
+    "index.html": "/sunday-react-1/index.html",
+    "precache-manifest.95dfdd93c64676f75a30ece3254a36f7.js": "/sunday-react-1/precache-manifest.95dfdd93c64676f75a30ece3254a36f7.js",
+    "service-worker.js": "/sunday-react-1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sunday-react-1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b838b1d5.chunk.js.LICENSE.txt": "/sunday-react-1/static/js/2.b838b1d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sunday-react-1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0df18dee.js",
+    "static/js/2.b838b1d5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a32ae249.chunk.js"
+  ]
+}
