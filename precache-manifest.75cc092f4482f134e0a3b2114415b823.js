@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5ebdeb76eca8ac0f7120de820811af9",
+    "revision": "b8ec309a4a53b5065e24e6758bd2f39f",
     "url": "/sunday-react-1/index.html"
   },
   {
-    "revision": "917c7fba9252de3e2f0a",
+    "revision": "98e99e0dabd8d6a69aeb",
     "url": "/sunday-react-1/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sunday-react-1/static/js/2.b838b1d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "917c7fba9252de3e2f0a",
-    "url": "/sunday-react-1/static/js/main.a32ae249.chunk.js"
+    "revision": "98e99e0dabd8d6a69aeb",
+    "url": "/sunday-react-1/static/js/main.0cae3580.chunk.js"
   },
   {
     "revision": "feee824ebb9081792d53",
